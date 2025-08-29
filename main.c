@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(){
 
-  printf("Kent Afyand Diswara ");
-  printf("Python");
+  printf("Kent Afyan Diswara ");
+  printf("C");
   return 0;
 }
